@@ -1,0 +1,8 @@
+INFO Application started
+INFO User logged in
+ERROR Database connection failed
+WARNING High memory usage
+INFO File uploaded successfully
+ERROR API request failed
+WARNING Slow response detected
+INFO Application stopped
